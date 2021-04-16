@@ -1,0 +1,1 @@
+t Stash as a place to temporarily store that's not ready to be permanently stored in a commit. Let's say you're working on some code that you're not ready to commit. You get a request to make a change and push the code. What do you do with the other code you've been working on? You can stash it away, do your work, and bring the code back from the stash
